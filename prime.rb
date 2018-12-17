@@ -10,3 +10,5 @@ def prime?(max)
     i += 1
 
 end
+true 
+end
